@@ -11,6 +11,9 @@ Welcome to Sirius Dog Sanctuary, a voluntary organisation devoted to the welfare
 
 The Sanctuary survives purely through the hard work of volunteers and the committee. All Europeans, all animal lovers, who are dedicated to make the dogs as comfortable as possible and encourage re-homing. It relies on donations from members subscriptions and any funds friends and volunteers can raise from various events. 
 
+## Website (if exists)
+http://www.siriusdogsanctuary.com
+
 ## Social networks links
 - [Facebook](https://www.facebook.com/siriusdogsanctuary/)
 
