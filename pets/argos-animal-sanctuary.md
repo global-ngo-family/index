@@ -21,4 +21,4 @@ https://www.argossanctuary.com/
 - [Paypal, Bank transfer](https://argossanctuary.com/donate.html)
 
 ## Contacts
-- [Email](argos@cytanet.com.cy)
+- [Email](mailto:argos@cytanet.com.cy)
