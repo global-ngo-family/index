@@ -20,5 +20,5 @@ https://pawsdogshelter.com/
 - https://pawsdogshelter.com/sponsor-a-dog/
 
 ## Contacts
-- [Email](mailto:aws-capca@hotmail.co.uk)
+- [Email](mailto:paws-capca@hotmail.co.uk)
 - Phone: =35799683775
