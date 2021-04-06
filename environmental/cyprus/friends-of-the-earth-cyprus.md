@@ -16,11 +16,12 @@ https://www.foecyprus.org/
 
 ## Social networks links
 - [Facebook](https://www.facebook.com/foecyprus/)
+- [Instagram](https://www.instagram.com/foecyprus/)
 
 ## Donation links
 - [Paypal, Bank transfer](https://www.foecyprus.org/join-us/#donate)
 
 ## Contacts
 - [On website](https://www.foecyprus.org/contact/)
-- [Email](office@foecyprus.org)
+- [Email](mailto:office@foecyprus.org)
 - Phone: +35725347042 
