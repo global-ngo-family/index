@@ -18,6 +18,9 @@ Progress on 15th February 2021
 - Received and paid 2800 euros;
 - Collected 930 full bags of waste
 
+## Website
+http://wastecollectioncyprus.com/
+
 ## Social networks links
 - [Instagram](https://www.instagram.com/waste.collection.cyprus/)
 - [Facebook](https://www.facebook.com/groups/waste.collection.cyprus)
@@ -27,5 +30,5 @@ Progress on 15th February 2021
 - [Revolut](https://pay.revolut.com/profile/evgenibuq)
 
 ## Contacts
-- [Email](mailto:ev.panov@gmail.com)
+- [Email](mailto:info@wastecollectioncyprus.com)
 - Phone: +35799855993 (Telegram, Whatsapp, Viber, SMS)
